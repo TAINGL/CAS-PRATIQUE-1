@@ -1,0 +1,1178 @@
+INFO:uvicorn.error:Started server process [86739]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [86739]
+INFO:uvicorn.error:Started server process [87196]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Token validation, prediction in progress... 
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87196]
+INFO:uvicorn.error:Started server process [87773]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87773]
+INFO:uvicorn.error:Started server process [87889]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87889]
+INFO:uvicorn.error:Started server process [87924]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87924]
+INFO:uvicorn.error:Started server process [87951]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [87951]
+INFO:uvicorn.error:Started server process [88042]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88042]
+INFO:uvicorn.error:Started server process [88058]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88058]
+INFO:uvicorn.error:Started server process [88459]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88459]
+INFO:uvicorn.error:Started server process [88476]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88476]
+INFO:uvicorn.error:Started server process [88484]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88484]
+INFO:uvicorn.error:Started server process [88542]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88542]
+INFO:uvicorn.error:Started server process [88574]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88574]
+INFO:uvicorn.error:Started server process [88630]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:root:Token validation, prediction in progress... 
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88630]
+INFO:uvicorn.error:Started server process [88710]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88710]
+INFO:uvicorn.error:Started server process [88811]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88811]
+INFO:uvicorn.error:Started server process [88830]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88830]
+INFO:uvicorn.error:Started server process [88841]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88841]
+INFO:uvicorn.error:Started server process [88868]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88868]
+INFO:uvicorn.error:Started server process [88894]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88894]
+INFO:uvicorn.error:Started server process [88922]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [88922]
+INFO:uvicorn.error:Started server process [89043]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89043]
+INFO:uvicorn.error:Started server process [89056]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89056]
+INFO:uvicorn.error:Started server process [89139]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89139]
+INFO:uvicorn.error:Started server process [89267]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89267]
+INFO:uvicorn.error:Started server process [89340]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89340]
+INFO:uvicorn.error:Started server process [89408]
+INFO:uvicorn.error:Waiting for application startup.
+INFO:uvicorn.error:Application startup complete.
+INFO:uvicorn.error:Shutting down
+INFO:uvicorn.error:Waiting for application shutdown.
+INFO:uvicorn.error:Application shutdown complete.
+INFO:uvicorn.error:Finished server process [89408]
+INFO:Started server process [89463]
+INFO:Waiting for application startup.
+INFO:Application startup complete.
+INFO:Shutting down
+INFO:Waiting for application shutdown.
+INFO:Application shutdown complete.
+INFO:Finished server process [89463]
+2021-02-04 16:32:18,543 Started server process [89482]
+2021-02-04 16:32:18,543 Waiting for application startup.
+2021-02-04 16:32:18,544 Application startup complete.
+2021-02-04 16:32:58,033 Token validation, prediction in progress... 
+2021-02-04 16:32:58,033 Token and Text valid
+2021-02-04 16:33:23,188 Token Invalid
+2021-02-04 16:33:42,493 Shutting down
+2021-02-04 16:33:42,598 Waiting for application shutdown.
+2021-02-04 16:33:42,598 Application shutdown complete.
+2021-02-04 16:33:42,598 Finished server process [89482]
+2021-02-04 16:33:43,037 Started server process [89592]
+2021-02-04 16:33:43,038 Waiting for application startup.
+2021-02-04 16:33:43,038 Application startup complete.
+2021-02-04 16:34:46,470 Shutting down
+2021-02-04 16:34:46,575 Waiting for application shutdown.
+2021-02-04 16:34:46,576 Application shutdown complete.
+2021-02-04 16:34:46,576 Finished server process [89592]
+2021-02-05 09:50:40,160 Started server process [14258]
+2021-02-05 09:50:40,161 Waiting for application startup.
+2021-02-05 09:50:40,161 Application startup complete.
+2021-02-05 09:51:30,150 Shutting down
+2021-02-05 09:51:30,254 Waiting for application shutdown.
+2021-02-05 09:51:30,254 Application shutdown complete.
+2021-02-05 09:51:30,255 Finished server process [14258]
+2021-02-05 09:51:30,696 Started server process [14285]
+2021-02-05 09:51:30,697 Waiting for application startup.
+2021-02-05 09:51:30,697 Application startup complete.
+2021-02-05 09:51:44,346 Shutting down
+2021-02-05 09:51:44,449 Waiting for application shutdown.
+2021-02-05 09:51:44,449 Application shutdown complete.
+2021-02-05 09:51:44,449 Finished server process [14285]
+2021-02-05 09:51:44,889 Started server process [14299]
+2021-02-05 09:51:44,889 Waiting for application startup.
+2021-02-05 09:51:44,889 Application startup complete.
+2021-02-05 09:52:50,413 Shutting down
+2021-02-05 09:52:50,516 Waiting for application shutdown.
+2021-02-05 09:52:50,516 Application shutdown complete.
+2021-02-05 09:52:50,516 Finished server process [14299]
+2021-02-05 09:52:50,793 Started server process [14351]
+2021-02-05 09:52:50,793 Waiting for application startup.
+2021-02-05 09:52:50,793 Application startup complete.
+2021-02-05 09:53:16,373 Shutting down
+2021-02-05 09:53:16,475 Waiting for application shutdown.
+2021-02-05 09:53:16,476 Application shutdown complete.
+2021-02-05 09:53:16,476 Finished server process [14351]
+2021-02-05 09:53:16,813 Started server process [14372]
+2021-02-05 09:53:16,814 Waiting for application startup.
+2021-02-05 09:53:16,814 Application startup complete.
+2021-02-05 09:53:26,018 Shutting down
+2021-02-05 09:53:26,119 Waiting for application shutdown.
+2021-02-05 09:53:26,120 Application shutdown complete.
+2021-02-05 09:53:26,120 Finished server process [14372]
+2021-02-05 09:53:26,398 Started server process [14386]
+2021-02-05 09:53:26,398 Waiting for application startup.
+2021-02-05 09:53:26,398 Application startup complete.
+2021-02-05 09:53:38,850 Shutting down
+2021-02-05 09:53:38,951 Waiting for application shutdown.
+2021-02-05 09:53:38,951 Application shutdown complete.
+2021-02-05 09:53:38,951 Finished server process [14386]
+2021-02-05 09:53:39,354 Started server process [14401]
+2021-02-05 09:53:39,354 Waiting for application startup.
+2021-02-05 09:53:39,355 Application startup complete.
+2021-02-05 09:55:10,542 Shutting down
+2021-02-05 09:55:10,644 Waiting for application shutdown.
+2021-02-05 09:55:10,645 Application shutdown complete.
+2021-02-05 09:55:10,645 Finished server process [14401]
+2021-02-05 09:55:11,294 Started server process [14460]
+2021-02-05 09:55:11,295 Waiting for application startup.
+2021-02-05 09:55:11,295 Application startup complete.
+2021-02-05 09:55:36,373 Token validation, prediction in progress... 
+2021-02-05 09:55:36,373 Token and Text valid
+2021-02-05 09:56:05,470 Token Invalid
+2021-02-05 09:57:17,753 Token validation, prediction in progress... 
+2021-02-05 09:57:17,754 Text Missing
+2021-02-05 09:57:40,732 Token validation, prediction in progress... 
+2021-02-05 09:57:40,734 Token and Text valid
+2021-02-05 09:57:47,896 Token validation, prediction in progress... 
+2021-02-05 09:57:47,897 Token and Text valid
+2021-02-05 09:58:44,216 Shutting down
+2021-02-05 09:58:44,320 Waiting for application shutdown.
+2021-02-05 09:58:44,325 Application shutdown complete.
+2021-02-05 09:58:44,326 Finished server process [14460]
+2021-02-05 09:58:44,957 Started server process [14615]
+2021-02-05 09:58:44,957 Waiting for application startup.
+2021-02-05 09:58:44,957 Application startup complete.
+2021-02-05 10:04:20,852 Shutting down
+2021-02-05 10:04:20,964 Waiting for application shutdown.
+2021-02-05 10:04:20,966 Application shutdown complete.
+2021-02-05 10:04:20,968 Finished server process [14615]
+2021-02-05 10:04:21,395 Started server process [14966]
+2021-02-05 10:04:21,395 Waiting for application startup.
+2021-02-05 10:04:21,395 Application startup complete.
+2021-02-05 10:04:24,701 Shutting down
+2021-02-05 10:04:24,802 Waiting for application shutdown.
+2021-02-05 10:04:24,802 Application shutdown complete.
+2021-02-05 10:04:24,802 Finished server process [14966]
+2021-02-05 10:04:25,238 Started server process [14994]
+2021-02-05 10:04:25,238 Waiting for application startup.
+2021-02-05 10:04:25,238 Application startup complete.
+2021-02-05 10:12:37,742 Shutting down
+2021-02-05 10:12:37,849 Waiting for application shutdown.
+2021-02-05 10:12:37,851 Application shutdown complete.
+2021-02-05 10:12:37,851 Finished server process [14994]
+2021-02-05 10:12:39,368 Started server process [15304]
+2021-02-05 10:12:39,369 Waiting for application startup.
+2021-02-05 10:12:39,369 Application startup complete.
+2021-02-05 10:13:03,054 Shutting down
+2021-02-05 10:13:03,155 Waiting for application shutdown.
+2021-02-05 10:13:03,156 Application shutdown complete.
+2021-02-05 10:13:03,156 Finished server process [15304]
+2021-02-05 10:13:04,065 Started server process [15343]
+2021-02-05 10:13:04,066 Waiting for application startup.
+2021-02-05 10:13:04,066 Application startup complete.
+2021-02-05 10:13:14,692 Shutting down
+2021-02-05 10:13:14,792 Waiting for application shutdown.
+2021-02-05 10:13:14,793 Application shutdown complete.
+2021-02-05 10:13:14,793 Finished server process [15343]
+2021-02-05 11:09:29,682 Started server process [18161]
+2021-02-05 11:09:29,683 Waiting for application startup.
+2021-02-05 11:09:29,683 Application startup complete.
+2021-02-05 11:09:52,939 Token Invalid
+2021-02-05 11:10:10,971 Shutting down
+2021-02-05 11:10:11,073 Waiting for application shutdown.
+2021-02-05 11:10:11,073 Application shutdown complete.
+2021-02-05 11:10:11,073 Finished server process [18161]
+2021-02-05 11:10:11,457 Started server process [18247]
+2021-02-05 11:10:11,457 Waiting for application startup.
+2021-02-05 11:10:11,457 Application startup complete.
+2021-02-05 11:11:35,777 Shutting down
+2021-02-05 11:11:35,878 Waiting for application shutdown.
+2021-02-05 11:11:35,879 Application shutdown complete.
+2021-02-05 11:11:35,879 Finished server process [18247]
+2021-02-05 11:11:36,167 Started server process [18298]
+2021-02-05 11:11:36,167 Waiting for application startup.
+2021-02-05 11:11:36,167 Application startup complete.
+2021-02-05 11:15:40,672 Shutting down
+2021-02-05 11:15:40,779 Waiting for application shutdown.
+2021-02-05 11:15:40,784 Application shutdown complete.
+2021-02-05 11:15:40,785 Finished server process [18298]
+2021-02-05 11:18:06,805 Started server process [18656]
+2021-02-05 11:18:06,805 Waiting for application startup.
+2021-02-05 11:18:06,805 Application startup complete.
+2021-02-05 11:19:16,207 Shutting down
+2021-02-05 11:19:16,309 Waiting for application shutdown.
+2021-02-05 11:19:16,310 Application shutdown complete.
+2021-02-05 11:19:16,310 Finished server process [18656]
+2021-02-05 11:19:17,213 Started server process [18733]
+2021-02-05 11:19:17,213 Waiting for application startup.
+2021-02-05 11:19:17,213 Application startup complete.
+2021-02-05 11:26:19,076 Shutting down
+2021-02-05 11:26:19,189 Waiting for application shutdown.
+2021-02-05 11:26:19,191 Application shutdown complete.
+2021-02-05 11:26:19,191 Finished server process [18733]
+2021-02-05 11:26:19,636 Started server process [19168]
+2021-02-05 11:26:19,636 Waiting for application startup.
+2021-02-05 11:26:19,636 Application startup complete.
+2021-02-05 11:29:58,745 Shutting down
+2021-02-05 11:29:58,847 Waiting for application shutdown.
+2021-02-05 11:29:58,848 Application shutdown complete.
+2021-02-05 11:29:58,848 Finished server process [19168]
+2021-02-05 11:29:59,470 Started server process [19364]
+2021-02-05 11:29:59,470 Waiting for application startup.
+2021-02-05 11:29:59,470 Application startup complete.
+2021-02-05 11:30:03,072 Shutting down
+2021-02-05 11:30:03,176 Waiting for application shutdown.
+2021-02-05 11:30:03,176 Application shutdown complete.
+2021-02-05 11:30:03,176 Finished server process [19364]
+2021-02-05 11:30:03,453 Started server process [19377]
+2021-02-05 11:30:03,454 Waiting for application startup.
+2021-02-05 11:30:03,454 Application startup complete.
+2021-02-05 11:36:15,473 Shutting down
+2021-02-05 11:36:15,576 Waiting for application shutdown.
+2021-02-05 11:36:15,577 Application shutdown complete.
+2021-02-05 11:36:15,577 Finished server process [19377]
+2021-02-05 11:48:31,736 Started server process [20093]
+2021-02-05 11:48:31,736 Waiting for application startup.
+2021-02-05 11:48:31,736 Application startup complete.
+2021-02-05 11:49:11,161 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 48, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:49:26,311 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 48, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:50:02,197 Shutting down
+2021-02-05 11:50:02,302 Waiting for application shutdown.
+2021-02-05 11:50:02,302 Application shutdown complete.
+2021-02-05 11:50:02,302 Finished server process [20093]
+2021-02-05 11:50:02,681 Started server process [20231]
+2021-02-05 11:50:02,681 Waiting for application startup.
+2021-02-05 11:50:02,681 Application startup complete.
+2021-02-05 11:51:05,489 Shutting down
+2021-02-05 11:51:05,589 Waiting for application shutdown.
+2021-02-05 11:51:05,590 Application shutdown complete.
+2021-02-05 11:51:05,590 Finished server process [20231]
+2021-02-05 11:51:05,963 Started server process [20273]
+2021-02-05 11:51:05,963 Waiting for application startup.
+2021-02-05 11:51:05,964 Application startup complete.
+2021-02-05 11:51:09,890 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 48, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:51:10,942 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 48, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:51:23,265 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 48, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:54:18,007 Shutting down
+2021-02-05 11:54:18,111 Waiting for application shutdown.
+2021-02-05 11:54:18,112 Application shutdown complete.
+2021-02-05 11:54:18,112 Finished server process [20273]
+2021-02-05 11:54:18,891 Started server process [20379]
+2021-02-05 11:54:18,891 Waiting for application startup.
+2021-02-05 11:54:18,891 Application startup complete.
+2021-02-05 11:54:23,098 Exception in ASGI application
+Traceback (most recent call last):
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/protocols/http/h11_impl.py", line 394, in run_asgi
+    result = await app(self.scope, self.receive, self.send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/uvicorn/middleware/proxy_headers.py", line 45, in __call__
+    return await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/applications.py", line 199, in __call__
+    await super().__call__(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/applications.py", line 111, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 181, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/middleware/errors.py", line 159, in __call__
+    await self.app(scope, receive, _send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 82, in __call__
+    raise exc from None
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/exceptions.py", line 71, in __call__
+    await self.app(scope, receive, sender)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 566, in __call__
+    await route.handle(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 227, in handle
+    await self.app(scope, receive, send)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/starlette/routing.py", line 41, in app
+    response = await func(request)
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 202, in app
+    dependant=dependant, values=values, is_coroutine=is_coroutine
+  File "/Users/ltaing/Downloads/Titre Pro/CP_1/venv/lib/python3.7/site-packages/fastapi/routing.py", line 148, in run_endpoint_function
+    return await dependant.call(**values)
+  File "./main.py", line 49, in post
+    response.status_code = status.HTTP_401_CREATED
+AttributeError: module 'starlette.status' has no attribute 'HTTP_401_CREATED'
+2021-02-05 11:54:41,724 Shutting down
+2021-02-05 11:54:41,828 Waiting for application shutdown.
+2021-02-05 11:54:41,829 Application shutdown complete.
+2021-02-05 11:54:41,829 Finished server process [20379]
+2021-02-05 11:55:45,788 Started server process [20468]
+2021-02-05 11:55:45,788 Waiting for application startup.
+2021-02-05 11:55:45,788 Application startup complete.
+2021-02-05 11:55:54,020 Shutting down
+2021-02-05 11:55:54,125 Waiting for application shutdown.
+2021-02-05 11:55:54,125 Application shutdown complete.
+2021-02-05 11:55:54,125 Finished server process [20468]
+2021-02-05 11:55:54,479 Started server process [20481]
+2021-02-05 11:55:54,479 Waiting for application startup.
+2021-02-05 11:55:54,480 Application startup complete.
+2021-02-05 12:04:08,119 Shutting down
+2021-02-05 12:04:08,232 Waiting for application shutdown.
+2021-02-05 12:04:08,235 Application shutdown complete.
+2021-02-05 12:04:08,236 Finished server process [20481]
+2021-02-05 12:04:42,019 Started server process [20899]
+2021-02-05 12:04:42,025 Waiting for application startup.
+2021-02-05 12:04:42,025 Application startup complete.
+2021-02-05 12:05:13,705 Shutting down
+2021-02-05 12:05:13,809 Waiting for application shutdown.
+2021-02-05 12:05:13,809 Application shutdown complete.
+2021-02-05 12:05:13,809 Finished server process [20899]
+2021-02-05 12:05:14,178 Started server process [20940]
+2021-02-05 12:05:14,179 Waiting for application startup.
+2021-02-05 12:05:14,179 Application startup complete.
+2021-02-05 12:08:08,108 Token validation, prediction in progress... 
+2021-02-05 12:08:08,109 Token and Text valid
+2021-02-05 12:08:18,442 Token validation, prediction in progress... 
+2021-02-05 12:08:18,442 Token and Text valid
+2021-02-05 12:08:20,298 Token validation, prediction in progress... 
+2021-02-05 12:08:20,298 Token and Text valid
+2021-02-05 12:08:50,595 Shutting down
+2021-02-05 12:08:50,699 Waiting for application shutdown.
+2021-02-05 12:08:50,699 Application shutdown complete.
+2021-02-05 12:08:50,699 Finished server process [20940]
+2021-02-05 12:08:51,133 Started server process [21096]
+2021-02-05 12:08:51,134 Waiting for application startup.
+2021-02-05 12:08:51,134 Application startup complete.
+2021-02-05 12:11:27,933 Shutting down
+2021-02-05 12:11:28,037 Waiting for application shutdown.
+2021-02-05 12:11:28,037 Application shutdown complete.
+2021-02-05 12:11:28,038 Finished server process [21096]
+2021-02-05 12:11:28,588 Started server process [21251]
+2021-02-05 12:11:28,588 Waiting for application startup.
+2021-02-05 12:11:28,589 Application startup complete.
+2021-02-05 12:11:36,328 Shutting down
+2021-02-05 12:11:36,433 Waiting for application shutdown.
+2021-02-05 12:11:36,433 Application shutdown complete.
+2021-02-05 12:11:36,433 Finished server process [21251]
+2021-02-05 12:11:37,056 Started server process [21263]
+2021-02-05 12:11:37,056 Waiting for application startup.
+2021-02-05 12:11:37,056 Application startup complete.
+2021-02-05 12:12:48,935 Shutting down
+2021-02-05 12:12:49,041 Waiting for application shutdown.
+2021-02-05 12:12:49,041 Application shutdown complete.
+2021-02-05 12:12:49,041 Finished server process [21263]
+2021-02-05 12:12:49,321 Started server process [21325]
+2021-02-05 12:12:49,321 Waiting for application startup.
+2021-02-05 12:12:49,322 Application startup complete.
+2021-02-05 12:13:08,278 Shutting down
+2021-02-05 12:13:08,383 Waiting for application shutdown.
+2021-02-05 12:13:08,383 Application shutdown complete.
+2021-02-05 12:13:08,383 Finished server process [21325]
+2021-02-05 12:13:08,900 Started server process [21349]
+2021-02-05 12:13:08,900 Waiting for application startup.
+2021-02-05 12:13:08,900 Application startup complete.
+2021-02-05 12:14:35,645 Shutting down
+2021-02-05 12:14:35,755 Waiting for application shutdown.
+2021-02-05 12:14:35,757 Application shutdown complete.
+2021-02-05 12:14:35,757 Finished server process [21349]
+2021-02-05 12:14:36,258 Started server process [21401]
+2021-02-05 12:14:36,258 Waiting for application startup.
+2021-02-05 12:14:36,258 Application startup complete.
+2021-02-05 12:14:53,665 Shutting down
+2021-02-05 12:14:53,769 Waiting for application shutdown.
+2021-02-05 12:14:53,769 Application shutdown complete.
+2021-02-05 12:14:53,769 Finished server process [21401]
+2021-02-05 12:14:54,063 Started server process [21450]
+2021-02-05 12:14:54,063 Waiting for application startup.
+2021-02-05 12:14:54,063 Application startup complete.
+2021-02-05 12:15:13,229 Shutting down
+2021-02-05 12:15:13,331 Waiting for application shutdown.
+2021-02-05 12:15:13,331 Application shutdown complete.
+2021-02-05 12:15:13,331 Finished server process [21450]
+2021-02-05 12:15:13,629 Started server process [21483]
+2021-02-05 12:15:13,629 Waiting for application startup.
+2021-02-05 12:15:13,629 Application startup complete.
+2021-02-05 12:15:55,675 Shutting down
+2021-02-05 12:15:55,780 Waiting for application shutdown.
+2021-02-05 12:15:55,781 Application shutdown complete.
+2021-02-05 12:15:55,781 Finished server process [21483]
+2021-02-05 12:16:03,146 Started server process [21520]
+2021-02-05 12:16:03,146 Waiting for application startup.
+2021-02-05 12:16:03,146 Application startup complete.
+2021-02-05 12:16:06,957 Shutting down
+2021-02-05 12:16:07,059 Waiting for application shutdown.
+2021-02-05 12:16:07,060 Application shutdown complete.
+2021-02-05 12:16:07,060 Finished server process [21520]
+2021-02-05 12:16:07,374 Started server process [21531]
+2021-02-05 12:16:07,374 Waiting for application startup.
+2021-02-05 12:16:07,374 Application startup complete.
+2021-02-05 12:16:19,251 Shutting down
+2021-02-05 12:16:19,351 Waiting for application shutdown.
+2021-02-05 12:16:19,352 Application shutdown complete.
+2021-02-05 12:16:19,352 Finished server process [21531]
+2021-02-05 12:16:19,728 Started server process [21546]
+2021-02-05 12:16:19,728 Waiting for application startup.
+2021-02-05 12:16:19,728 Application startup complete.
+2021-02-05 12:16:40,185 Token Invalid
+2021-02-05 12:18:31,394 Shutting down
+2021-02-05 12:18:31,499 Waiting for application shutdown.
+2021-02-05 12:18:31,499 Application shutdown complete.
+2021-02-05 12:18:31,499 Finished server process [21546]
+2021-02-05 12:18:32,397 Started server process [21638]
+2021-02-05 12:18:32,397 Waiting for application startup.
+2021-02-05 12:18:32,397 Application startup complete.
+2021-02-05 12:19:06,550 Shutting down
+2021-02-05 12:19:06,653 Waiting for application shutdown.
+2021-02-05 12:19:06,653 Application shutdown complete.
+2021-02-05 12:19:06,653 Finished server process [21638]
+2021-02-05 12:19:07,163 Started server process [21669]
+2021-02-05 12:19:07,163 Waiting for application startup.
+2021-02-05 12:19:07,164 Application startup complete.
+2021-02-05 12:20:39,993 Token Invalid
+2021-02-05 12:22:57,989 Shutting down
+2021-02-05 12:22:58,095 Waiting for application shutdown.
+2021-02-05 12:22:58,097 Application shutdown complete.
+2021-02-05 12:22:58,097 Finished server process [21669]
+2021-02-05 12:22:58,725 Started server process [21917]
+2021-02-05 12:22:58,725 Waiting for application startup.
+2021-02-05 12:22:58,725 Application startup complete.
+2021-02-05 12:23:32,434 Shutting down
+2021-02-05 12:23:32,539 Waiting for application shutdown.
+2021-02-05 12:23:32,539 Application shutdown complete.
+2021-02-05 12:23:32,539 Finished server process [21917]
+2021-02-05 12:23:33,654 Started server process [22001]
+2021-02-05 12:23:33,654 Waiting for application startup.
+2021-02-05 12:23:33,655 Application startup complete.
+2021-02-05 12:24:05,894 Shutting down
+2021-02-05 12:24:05,994 Waiting for application shutdown.
+2021-02-05 12:24:05,994 Application shutdown complete.
+2021-02-05 12:24:05,994 Finished server process [22001]
+2021-02-05 12:24:06,309 Started server process [22057]
+2021-02-05 12:24:06,309 Waiting for application startup.
+2021-02-05 12:24:06,310 Application startup complete.
+2021-02-05 12:24:23,443 Shutting down
+2021-02-05 12:24:23,548 Waiting for application shutdown.
+2021-02-05 12:24:23,548 Application shutdown complete.
+2021-02-05 12:24:23,548 Finished server process [22057]
+2021-02-05 12:24:24,263 Started server process [22123]
+2021-02-05 12:24:24,264 Waiting for application startup.
+2021-02-05 12:24:24,264 Application startup complete.
+2021-02-05 12:25:34,915 Token validation, prediction in progress... 
+2021-02-05 12:25:34,917 Token and Text valid
+2021-02-05 12:27:58,417 Shutting down
+2021-02-05 12:27:58,535 Waiting for application shutdown.
+2021-02-05 12:27:58,542 Application shutdown complete.
+2021-02-05 12:27:58,543 Finished server process [22123]
+2021-02-05 12:27:59,147 Started server process [22369]
+2021-02-05 12:27:59,147 Waiting for application startup.
+2021-02-05 12:27:59,147 Application startup complete.
+2021-02-05 12:28:00,778 Shutting down
+2021-02-05 12:28:00,884 Waiting for application shutdown.
+2021-02-05 12:28:00,884 Application shutdown complete.
+2021-02-05 12:28:00,884 Finished server process [22369]
+2021-02-05 12:28:01,189 Started server process [22377]
+2021-02-05 12:28:01,190 Waiting for application startup.
+2021-02-05 12:28:01,190 Application startup complete.
+2021-02-05 12:28:08,614 Shutting down
+2021-02-05 12:28:08,715 Waiting for application shutdown.
+2021-02-05 12:28:08,715 Application shutdown complete.
+2021-02-05 12:28:08,715 Finished server process [22377]
+2021-02-05 12:28:09,003 Started server process [22396]
+2021-02-05 12:28:09,004 Waiting for application startup.
+2021-02-05 12:28:09,004 Application startup complete.
+2021-02-05 12:28:15,398 Shutting down
+2021-02-05 12:28:15,504 Waiting for application shutdown.
+2021-02-05 12:28:15,504 Application shutdown complete.
+2021-02-05 12:28:15,504 Finished server process [22396]
+2021-02-05 12:28:15,793 Started server process [22406]
+2021-02-05 12:28:15,793 Waiting for application startup.
+2021-02-05 12:28:15,793 Application startup complete.
+2021-02-05 12:30:30,272 Shutting down
+2021-02-05 12:30:30,386 Waiting for application shutdown.
+2021-02-05 12:30:30,387 Application shutdown complete.
+2021-02-05 12:30:30,387 Finished server process [22406]
+2021-02-05 12:30:30,854 Started server process [22533]
+2021-02-05 12:30:30,854 Waiting for application startup.
+2021-02-05 12:30:30,854 Application startup complete.
+2021-02-05 12:33:15,938 Shutting down
+2021-02-05 12:33:16,044 Waiting for application shutdown.
+2021-02-05 12:33:16,044 Application shutdown complete.
+2021-02-05 12:33:16,044 Finished server process [22533]
+2021-02-05 12:33:16,592 Started server process [22624]
+2021-02-05 12:33:16,592 Waiting for application startup.
+2021-02-05 12:33:16,592 Application startup complete.
+2021-02-05 12:33:18,772 Shutting down
+2021-02-05 12:33:18,877 Waiting for application shutdown.
+2021-02-05 12:33:18,877 Application shutdown complete.
+2021-02-05 12:33:18,877 Finished server process [22624]
+2021-02-05 12:33:19,155 Started server process [22634]
+2021-02-05 12:33:19,155 Waiting for application startup.
+2021-02-05 12:33:19,155 Application startup complete.
+2021-02-05 12:36:16,047 Shutting down
+2021-02-05 12:36:16,147 Waiting for application shutdown.
+2021-02-05 12:36:16,148 Application shutdown complete.
+2021-02-05 12:36:16,148 Finished server process [22634]
+2021-02-05 12:36:16,519 Started server process [22813]
+2021-02-05 12:36:16,519 Waiting for application startup.
+2021-02-05 12:36:16,519 Application startup complete.
+2021-02-05 12:37:19,679 Token Invalid
+2021-02-05 12:37:33,970 Token validation, prediction in progress... 
+2021-02-05 12:37:33,970 Text Missing
+2021-02-05 12:38:07,739 Token validation, prediction in progress... 
+2021-02-05 12:38:07,739 Text Missing
+2021-02-05 12:38:09,023 Token validation, prediction in progress... 
+2021-02-05 12:38:09,023 Text Missing
+2021-02-05 12:38:31,267 Token validation, prediction in progress... 
+2021-02-05 12:38:31,268 Token and Text valid
+2021-02-05 12:38:38,266 Token validation, prediction in progress... 
+2021-02-05 12:38:38,266 Text Missing
+2021-02-05 12:39:29,411 Token Invalid
+2021-02-05 12:39:36,546 Token Invalid
+2021-02-05 12:39:47,090 Token Invalid
+2021-02-05 12:40:39,768 Token Invalid
+2021-02-05 12:40:45,302 Token Invalid
+2021-02-05 12:41:43,771 Token Invalid
+2021-02-05 12:41:45,289 Token Invalid
+2021-02-05 12:42:46,726 Token Invalid
+2021-02-05 12:42:57,165 Token Invalid
+2021-02-05 12:45:37,944 Token validation, prediction in progress... 
+2021-02-05 12:45:37,945 Text Missing
+2021-02-05 12:46:31,666 Shutting down
+2021-02-05 12:46:31,771 Waiting for application shutdown.
+2021-02-05 12:46:31,775 Application shutdown complete.
+2021-02-05 12:46:31,775 Finished server process [22813]
+2021-02-05 12:46:32,289 Started server process [23322]
+2021-02-05 12:46:32,289 Waiting for application startup.
+2021-02-05 12:46:32,289 Application startup complete.
+2021-02-05 12:47:31,628 Shutting down
+2021-02-05 12:47:31,733 Waiting for application shutdown.
+2021-02-05 12:47:31,733 Application shutdown complete.
+2021-02-05 12:47:31,734 Finished server process [23322]
+2021-02-05 12:47:32,478 Started server process [23393]
+2021-02-05 12:47:32,478 Waiting for application startup.
+2021-02-05 12:47:32,479 Application startup complete.
+2021-02-05 12:48:02,814 Shutting down
+2021-02-05 12:48:02,918 Waiting for application shutdown.
+2021-02-05 12:48:02,918 Application shutdown complete.
+2021-02-05 12:48:02,919 Finished server process [23393]
+2021-02-05 12:48:03,406 Started server process [23426]
+2021-02-05 12:48:03,406 Waiting for application startup.
+2021-02-05 12:48:03,407 Application startup complete.
+2021-02-05 12:48:22,850 Shutting down
+2021-02-05 12:48:22,953 Waiting for application shutdown.
+2021-02-05 12:48:22,953 Application shutdown complete.
+2021-02-05 12:48:22,953 Finished server process [23426]
+2021-02-05 12:48:23,626 Started server process [23451]
+2021-02-05 12:48:23,627 Waiting for application startup.
+2021-02-05 12:48:23,627 Application startup complete.
+2021-02-05 12:48:40,351 Token validation, prediction in progress... 
+2021-02-05 12:48:40,351 Text Missing
+2021-02-05 12:53:13,736 Shutting down
+2021-02-05 12:53:13,839 Waiting for application shutdown.
+2021-02-05 12:53:13,846 Application shutdown complete.
+2021-02-05 12:53:13,846 Finished server process [23451]
+2021-02-05 12:53:14,420 Started server process [23866]
+2021-02-05 12:53:14,420 Waiting for application startup.
+2021-02-05 12:53:14,420 Application startup complete.
+2021-02-05 12:54:59,794 Shutting down
+2021-02-05 12:54:59,896 Waiting for application shutdown.
+2021-02-05 12:54:59,897 Application shutdown complete.
+2021-02-05 12:54:59,897 Finished server process [23866]
+2021-02-05 12:55:00,806 Started server process [24069]
+2021-02-05 12:55:00,806 Waiting for application startup.
+2021-02-05 12:55:00,806 Application startup complete.
+2021-02-05 12:56:15,296 Token validation, prediction in progress... 
+2021-02-05 12:56:15,296 Text Missing
+2021-02-05 12:56:56,991 Shutting down
+2021-02-05 12:56:57,097 Waiting for application shutdown.
+2021-02-05 12:56:57,097 Application shutdown complete.
+2021-02-05 12:56:57,097 Finished server process [24069]
+2021-02-05 12:56:57,572 Started server process [24190]
+2021-02-05 12:56:57,572 Waiting for application startup.
+2021-02-05 12:56:57,572 Application startup complete.
+2021-02-05 13:00:57,038 Shutting down
+2021-02-05 13:00:57,144 Waiting for application shutdown.
+2021-02-05 13:00:57,152 Application shutdown complete.
+2021-02-05 13:00:57,152 Finished server process [24190]
+2021-02-05 13:00:57,569 Started server process [24414]
+2021-02-05 13:00:57,569 Waiting for application startup.
+2021-02-05 13:00:57,569 Application startup complete.
+2021-02-05 13:01:08,986 Shutting down
+2021-02-05 13:01:09,089 Waiting for application shutdown.
+2021-02-05 13:01:09,089 Application shutdown complete.
+2021-02-05 13:01:09,089 Finished server process [24414]
+2021-02-05 13:01:09,381 Started server process [24444]
+2021-02-05 13:01:09,381 Waiting for application startup.
+2021-02-05 13:01:09,381 Application startup complete.
+2021-02-05 13:01:50,042 Shutting down
+2021-02-05 13:01:50,143 Waiting for application shutdown.
+2021-02-05 13:01:50,144 Application shutdown complete.
+2021-02-05 13:01:50,144 Finished server process [24444]
+2021-02-05 13:01:50,482 Started server process [24504]
+2021-02-05 13:01:50,482 Waiting for application startup.
+2021-02-05 13:01:50,482 Application startup complete.
+2021-02-05 13:02:34,585 Shutting down
+2021-02-05 13:02:34,691 Waiting for application shutdown.
+2021-02-05 13:02:34,691 Application shutdown complete.
+2021-02-05 13:02:34,691 Finished server process [24504]
+2021-02-05 13:02:34,975 Started server process [24541]
+2021-02-05 13:02:34,975 Waiting for application startup.
+2021-02-05 13:02:34,975 Application startup complete.
+2021-02-05 13:03:05,454 Shutting down
+2021-02-05 13:03:05,560 Waiting for application shutdown.
+2021-02-05 13:03:05,560 Application shutdown complete.
+2021-02-05 13:03:05,560 Finished server process [24541]
+2021-02-05 13:03:05,911 Started server process [24596]
+2021-02-05 13:03:05,911 Waiting for application startup.
+2021-02-05 13:03:05,911 Application startup complete.
+2021-02-05 13:03:25,376 Shutting down
+2021-02-05 13:03:25,476 Waiting for application shutdown.
+2021-02-05 13:03:25,477 Application shutdown complete.
+2021-02-05 13:03:25,477 Finished server process [24596]
+2021-02-05 13:03:25,760 Started server process [24621]
+2021-02-05 13:03:25,760 Waiting for application startup.
+2021-02-05 13:03:25,760 Application startup complete.
+2021-02-05 13:06:09,856 Shutting down
+2021-02-05 13:06:09,964 Waiting for application shutdown.
+2021-02-05 13:06:09,966 Application shutdown complete.
+2021-02-05 13:06:09,967 Finished server process [24621]
+2021-02-05 13:06:10,282 Started server process [24799]
+2021-02-05 13:06:10,283 Waiting for application startup.
+2021-02-05 13:06:10,283 Application startup complete.
+2021-02-05 13:07:32,598 Shutting down
+2021-02-05 13:07:32,704 Waiting for application shutdown.
+2021-02-05 13:07:32,706 Application shutdown complete.
+2021-02-05 13:07:32,706 Finished server process [24799]
+2021-02-05 13:07:33,573 Started server process [24871]
+2021-02-05 13:07:33,574 Waiting for application startup.
+2021-02-05 13:07:33,574 Application startup complete.
+2021-02-05 13:07:40,419 Shutting down
+2021-02-05 13:07:40,523 Waiting for application shutdown.
+2021-02-05 13:07:40,523 Application shutdown complete.
+2021-02-05 13:07:40,523 Finished server process [24871]
+2021-02-05 13:07:41,199 Started server process [24888]
+2021-02-05 13:07:41,199 Waiting for application startup.
+2021-02-05 13:07:41,200 Application startup complete.
+2021-02-05 13:07:45,998 Shutting down
+2021-02-05 13:07:46,099 Waiting for application shutdown.
+2021-02-05 13:07:46,100 Application shutdown complete.
+2021-02-05 13:07:46,100 Finished server process [24888]
+2021-02-05 13:07:46,402 Started server process [24897]
+2021-02-05 13:07:46,402 Waiting for application startup.
+2021-02-05 13:07:46,403 Application startup complete.
+2021-02-05 14:16:43,265 Shutting down
+2021-02-05 14:16:43,380 Waiting for application shutdown.
+2021-02-05 14:16:43,387 Application shutdown complete.
+2021-02-05 14:16:43,387 Finished server process [24897]
+2021-02-05 14:16:43,874 Started server process [26943]
+2021-02-05 14:16:43,874 Waiting for application startup.
+2021-02-05 14:16:43,874 Application startup complete.
+2021-02-05 14:24:00,502 Shutting down
+2021-02-05 14:24:00,611 Waiting for application shutdown.
+2021-02-05 14:24:00,613 Application shutdown complete.
+2021-02-05 14:24:00,614 Finished server process [26943]
+2021-02-05 14:24:01,038 Started server process [27258]
+2021-02-05 14:24:01,038 Waiting for application startup.
+2021-02-05 14:24:01,038 Application startup complete.
+2021-02-05 14:24:06,612 Shutting down
+2021-02-05 14:24:06,713 Waiting for application shutdown.
+2021-02-05 14:24:06,713 Application shutdown complete.
+2021-02-05 14:24:06,713 Finished server process [27258]
+2021-02-05 14:24:06,997 Started server process [27269]
+2021-02-05 14:24:06,997 Waiting for application startup.
+2021-02-05 14:24:06,998 Application startup complete.
+2021-02-05 14:41:36,555 Shutting down
+2021-02-05 14:41:36,663 Waiting for application shutdown.
+2021-02-05 14:41:36,667 Application shutdown complete.
+2021-02-05 14:41:36,668 Finished server process [27269]
+2021-02-05 14:41:37,696 Started server process [27902]
+2021-02-05 14:41:37,696 Waiting for application startup.
+2021-02-05 14:41:37,697 Application startup complete.
+2021-02-05 14:59:18,480 Shutting down
+2021-02-05 14:59:18,601 Waiting for application shutdown.
+2021-02-05 14:59:18,603 Application shutdown complete.
+2021-02-05 14:59:18,604 Finished server process [27902]
+2021-02-05 14:59:19,214 Started server process [28710]
+2021-02-05 14:59:19,214 Waiting for application startup.
+2021-02-05 14:59:19,214 Application startup complete.
+2021-02-05 15:00:15,169 Shutting down
+2021-02-05 15:00:15,272 Waiting for application shutdown.
+2021-02-05 15:00:15,273 Application shutdown complete.
+2021-02-05 15:00:15,273 Finished server process [28710]
+2021-02-05 15:25:20,751 Started server process [30156]
+2021-02-05 15:25:20,751 Waiting for application startup.
+2021-02-05 15:25:20,752 Application startup complete.
+2021-02-05 15:26:35,420 Shutting down
+2021-02-05 15:26:35,523 Waiting for application shutdown.
+2021-02-05 15:26:35,527 Application shutdown complete.
+2021-02-05 15:26:35,527 Finished server process [30156]
+2021-02-05 15:26:35,939 Started server process [30213]
+2021-02-05 15:26:35,939 Waiting for application startup.
+2021-02-05 15:26:35,940 Application startup complete.
+2021-02-05 15:27:13,348 Shutting down
+2021-02-05 15:27:13,454 Waiting for application shutdown.
+2021-02-05 15:27:13,454 Application shutdown complete.
+2021-02-05 15:27:13,454 Finished server process [30213]
+2021-02-05 15:27:13,760 Started server process [30242]
+2021-02-05 15:27:13,760 Waiting for application startup.
+2021-02-05 15:27:13,760 Application startup complete.
+2021-02-05 15:28:27,259 Shutting down
+2021-02-05 15:28:27,361 Waiting for application shutdown.
+2021-02-05 15:28:27,361 Application shutdown complete.
+2021-02-05 15:28:27,361 Finished server process [30242]
+2021-02-05 15:28:27,824 Started server process [30285]
+2021-02-05 15:28:27,825 Waiting for application startup.
+2021-02-05 15:28:27,825 Application startup complete.
+2021-02-05 15:29:00,760 Token validation, prediction in progress... 
+2021-02-05 15:29:00,763 Token and Text valid
+2021-02-05 15:29:07,062 Token Invalid
+2021-02-05 15:29:07,063 status code 401
+2021-02-05 15:29:16,143 Token validation, prediction in progress... 
+2021-02-05 15:29:16,143 Text Missing
+2021-02-05 15:29:16,143 status code 400
+2021-02-05 15:29:41,403 Shutting down
+2021-02-05 15:29:41,508 Waiting for application shutdown.
+2021-02-05 15:29:41,508 Application shutdown complete.
+2021-02-05 15:29:41,508 Finished server process [30285]
+2021-02-05 15:29:42,247 Started server process [30361]
+2021-02-05 15:29:42,247 Waiting for application startup.
+2021-02-05 15:29:42,247 Application startup complete.
+2021-02-05 15:29:59,298 Shutting down
+2021-02-05 15:29:59,401 Waiting for application shutdown.
+2021-02-05 15:29:59,401 Application shutdown complete.
+2021-02-05 15:29:59,401 Finished server process [30361]
+2021-02-05 15:29:59,823 Started server process [30383]
+2021-02-05 15:29:59,823 Waiting for application startup.
+2021-02-05 15:29:59,823 Application startup complete.
+2021-02-05 15:30:05,790 Shutting down
+2021-02-05 15:30:05,895 Waiting for application shutdown.
+2021-02-05 15:30:05,895 Application shutdown complete.
+2021-02-05 15:30:05,895 Finished server process [30383]
+2021-02-05 15:30:06,388 Started server process [30395]
+2021-02-05 15:30:06,388 Waiting for application startup.
+2021-02-05 15:30:06,388 Application startup complete.
+2021-02-05 15:31:58,228 Shutting down
+2021-02-05 15:31:58,332 Waiting for application shutdown.
+2021-02-05 15:31:58,333 Application shutdown complete.
+2021-02-05 15:31:58,333 Finished server process [30395]
+2021-02-05 15:31:58,729 Started server process [30458]
+2021-02-05 15:31:58,729 Waiting for application startup.
+2021-02-05 15:31:58,729 Application startup complete.
+2021-02-05 15:32:19,513 Shutting down
+2021-02-05 15:32:19,614 Waiting for application shutdown.
+2021-02-05 15:32:19,614 Application shutdown complete.
+2021-02-05 15:32:19,614 Finished server process [30458]
+2021-02-05 15:32:19,909 Started server process [30480]
+2021-02-05 15:32:19,909 Waiting for application startup.
+2021-02-05 15:32:19,910 Application startup complete.
+2021-02-05 15:32:48,727 Shutting down
+2021-02-05 15:32:48,831 Waiting for application shutdown.
+2021-02-05 15:32:48,831 Application shutdown complete.
+2021-02-05 15:32:48,831 Finished server process [30480]
+2021-02-05 15:32:49,211 Started server process [30526]
+2021-02-05 15:32:49,211 Waiting for application startup.
+2021-02-05 15:32:49,212 Application startup complete.
+2021-02-05 15:35:54,070 Shutting down
+2021-02-05 15:35:54,178 Waiting for application shutdown.
+2021-02-05 15:35:54,183 Application shutdown complete.
+2021-02-05 15:35:54,183 Finished server process [30526]
+2021-02-05 15:35:54,725 Started server process [30756]
+2021-02-05 15:35:54,725 Waiting for application startup.
+2021-02-05 15:35:54,725 Application startup complete.
+2021-02-05 15:40:30,984 Shutting down
+2021-02-05 15:40:31,097 Waiting for application shutdown.
+2021-02-05 15:40:31,099 Application shutdown complete.
+2021-02-05 15:40:31,101 Finished server process [30756]
+2021-02-05 15:40:31,664 Started server process [30932]
+2021-02-05 15:40:31,664 Waiting for application startup.
+2021-02-05 15:40:31,664 Application startup complete.
+2021-02-05 15:44:19,541 Shutting down
+2021-02-05 15:44:19,649 Waiting for application shutdown.
+2021-02-05 15:44:19,651 Application shutdown complete.
+2021-02-05 15:44:19,651 Finished server process [30932]
+2021-02-05 15:44:20,187 Started server process [31125]
+2021-02-05 15:44:20,187 Waiting for application startup.
+2021-02-05 15:44:20,187 Application startup complete.
+2021-02-05 16:33:11,501 Shutting down
+2021-02-05 16:33:11,612 Waiting for application shutdown.
+2021-02-05 16:33:11,616 Application shutdown complete.
+2021-02-05 16:33:11,616 Finished server process [31125]
+2021-02-05 16:33:12,103 Started server process [32833]
+2021-02-05 16:33:12,103 Waiting for application startup.
+2021-02-05 16:33:12,103 Application startup complete.
+2021-02-05 17:45:03,291 Shutting down
+2021-02-05 17:45:03,417 Waiting for application shutdown.
+2021-02-05 17:45:03,425 Application shutdown complete.
+2021-02-05 17:45:03,425 Finished server process [32833]
+2021-02-05 17:45:48,010 Started server process [35444]
+2021-02-05 17:45:48,010 Waiting for application startup.
+2021-02-05 17:45:48,011 Application startup complete.
+2021-02-05 17:47:54,645 Shutting down
+2021-02-05 17:47:54,749 Waiting for application shutdown.
+2021-02-05 17:47:54,749 Application shutdown complete.
+2021-02-05 17:47:54,749 Finished server process [35444]
+2021-02-05 17:47:55,048 Started server process [35531]
+2021-02-05 17:47:55,048 Waiting for application startup.
+2021-02-05 17:47:55,049 Application startup complete.
+2021-02-05 17:48:30,765 Shutting down
+2021-02-05 17:48:30,869 Waiting for application shutdown.
+2021-02-05 17:48:30,870 Application shutdown complete.
+2021-02-05 17:48:30,870 Finished server process [35531]
+2021-02-05 17:48:31,480 Started server process [35578]
+2021-02-05 17:48:31,481 Waiting for application startup.
+2021-02-05 17:48:31,481 Application startup complete.
+2021-02-05 17:48:49,445 Shutting down
+2021-02-05 17:48:49,550 Waiting for application shutdown.
+2021-02-05 17:48:49,550 Application shutdown complete.
+2021-02-05 17:48:49,550 Finished server process [35578]
+2021-02-05 17:48:50,376 Started server process [35610]
+2021-02-05 17:48:50,376 Waiting for application startup.
+2021-02-05 17:48:50,376 Application startup complete.
+2021-02-05 17:49:36,805 Shutting down
+2021-02-05 17:49:36,912 Waiting for application shutdown.
+2021-02-05 17:49:36,913 Application shutdown complete.
+2021-02-05 17:49:36,914 Finished server process [35610]
+2021-02-05 17:49:37,372 Started server process [35662]
+2021-02-05 17:49:37,372 Waiting for application startup.
+2021-02-05 17:49:37,373 Application startup complete.
+2021-02-05 17:49:42,116 Shutting down
+2021-02-05 17:49:42,218 Waiting for application shutdown.
+2021-02-05 17:49:42,218 Application shutdown complete.
+2021-02-05 17:49:42,218 Finished server process [35662]
+2021-02-05 17:49:42,525 Started server process [35678]
+2021-02-05 17:49:42,526 Waiting for application startup.
+2021-02-05 17:49:42,526 Application startup complete.
+2021-02-05 17:49:51,980 Shutting down
+2021-02-05 17:49:52,083 Waiting for application shutdown.
+2021-02-05 17:49:52,084 Application shutdown complete.
+2021-02-05 17:49:52,084 Finished server process [35678]
+2021-02-05 17:49:52,392 Started server process [35711]
+2021-02-05 17:49:52,392 Waiting for application startup.
+2021-02-05 17:49:52,392 Application startup complete.
+2021-02-05 17:52:39,635 Shutting down
+2021-02-05 17:52:39,741 Waiting for application shutdown.
+2021-02-05 17:52:39,741 Application shutdown complete.
+2021-02-05 17:52:39,741 Finished server process [35711]
+2021-02-05 17:52:40,294 Started server process [35839]
+2021-02-05 17:52:40,294 Waiting for application startup.
+2021-02-05 17:52:40,294 Application startup complete.
+2021-02-05 17:53:13,754 Shutting down
+2021-02-05 17:53:13,860 Waiting for application shutdown.
+2021-02-05 17:53:13,860 Application shutdown complete.
+2021-02-05 17:53:13,860 Finished server process [35839]
+2021-02-05 17:53:14,152 Started server process [35864]
+2021-02-05 17:53:14,152 Waiting for application startup.
+2021-02-05 17:53:14,153 Application startup complete.
+2021-02-05 17:53:26,745 Shutting down
+2021-02-05 17:53:26,847 Waiting for application shutdown.
+2021-02-05 17:53:26,848 Application shutdown complete.
+2021-02-05 17:53:26,848 Finished server process [35864]
+2021-02-05 17:53:27,141 Started server process [35877]
+2021-02-05 17:53:27,141 Waiting for application startup.
+2021-02-05 17:53:27,141 Application startup complete.
+2021-02-05 17:54:42,410 Shutting down
+2021-02-05 17:54:42,510 Waiting for application shutdown.
+2021-02-05 17:54:42,511 Application shutdown complete.
+2021-02-05 17:54:42,511 Finished server process [35877]
+2021-02-05 17:54:42,839 Started server process [36002]
+2021-02-05 17:54:42,839 Waiting for application startup.
+2021-02-05 17:54:42,839 Application startup complete.
+2021-02-05 17:54:47,983 Shutting down
+2021-02-05 17:54:48,088 Waiting for application shutdown.
+2021-02-05 17:54:48,089 Application shutdown complete.
+2021-02-05 17:54:48,089 Finished server process [36002]
+2021-02-05 17:54:48,396 Started server process [36014]
+2021-02-05 17:54:48,397 Waiting for application startup.
+2021-02-05 17:54:48,397 Application startup complete.
+2021-02-05 17:57:12,502 Shutting down
+2021-02-05 17:57:12,621 Waiting for application shutdown.
+2021-02-05 17:57:12,624 Application shutdown complete.
+2021-02-05 17:57:12,624 Finished server process [36014]
+2021-02-05 17:57:13,089 Started server process [36129]
+2021-02-05 17:57:13,089 Waiting for application startup.
+2021-02-05 17:57:13,089 Application startup complete.
+2021-02-05 17:57:20,395 Shutting down
+2021-02-05 17:57:20,497 Waiting for application shutdown.
+2021-02-05 17:57:20,497 Application shutdown complete.
+2021-02-05 17:57:20,498 Finished server process [36129]
+2021-02-05 17:57:20,793 Started server process [36155]
+2021-02-05 17:57:20,793 Waiting for application startup.
+2021-02-05 17:57:20,794 Application startup complete.
